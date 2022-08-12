@@ -1,7 +1,6 @@
 {
   "icon": "sap-icon://travel-expense",
   "number": 43.333,
-  "numberDigits": 1,
   "subtitle": "Quarterly overview",
   "title": "Travel Expenses"
 }
