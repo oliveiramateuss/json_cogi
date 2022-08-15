@@ -1,1 +1,10 @@
-{ "d" : { "icon": "sap-icon://travel-expense" } 
+{ 
+  "d": 
+    {
+      "info": "Quarter Ends!",
+      "infoState": "Critical",
+      "number": 43,
+      "subtitle": "Quarterly overview",
+      "title": "Travel Expenses"
+    }
+}
