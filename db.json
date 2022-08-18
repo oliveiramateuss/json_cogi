@@ -1,15 +1,16 @@
 { 
   "d": 
     {
+      "title": "Postprocessing Error Records",
+      "subtitle": "COGI",
+      "icon": "sap-icon://alert",
       "info": "Quarter Ends!",
       "infoState": "Critical",
-      "number": 43,
+      "number": "2.249.965,
       "numberDigits": 1,
       "numberFactor": "k",
-      "numberState": "Positive",
-      "numberUnit": "EUR",
-      "stateArrow": "Up",
-      "subtitle": "Quarterly overview",
-      "title": "Travel Expenses"
+      "numberState": "Critical",
+      "numberUnit": "BRL",
+      "stateArrow": "Up"      
     }
 }
