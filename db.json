@@ -6,6 +6,7 @@
       "info": "Q3 - 2022",
       "infoState": "Critical",
       "number": 2265215,
+      "numberDigits" : 2
       "numberState": "Critical",
       "numberUnit": "BRL",
       "stateArrow": "Up"      
