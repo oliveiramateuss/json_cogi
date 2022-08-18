@@ -3,11 +3,9 @@
     {
       "title": "Postprocessing Error Records",
       "subtitle": "COGI",
-      "icon": "sap-icon://alert",
       "info": "Q3 - 2022",
       "infoState": "Critical",
-      "number": "2+",
-      "numberFactor": "R$",
+      "number": 2265215,
       "numberState": "Critical",
       "numberUnit": "BRL",
       "stateArrow": "Up"      
