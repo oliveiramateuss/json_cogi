@@ -4,11 +4,11 @@
       "title": "Postprocessing Error Records",
       "subtitle": "COGI",
       "info": "Q3 - 2022",
-      "infoState": "Critical",
       "number": 2265215,
       "numberDigits" : 2
       "numberState": "Critical",
       "numberUnit": "BRL",
+      "infoState": "Neutral",
       "stateArrow": "Up"      
     }
 }
