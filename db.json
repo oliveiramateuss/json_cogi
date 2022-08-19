@@ -40,10 +40,10 @@
       "stateArrow": "Down"      
   },
   
-  "production-orders":
+  "excess-component-consumption":
   {
-      "title": "Monitor Production Orders",
-      "subtitle": "MRP View",
+      "title": "Excess Component Consumption",
+      "subtitle": "Maximum Excess",
       "info": "",
       "number": "0.5",
       "numberFactor":"%",
