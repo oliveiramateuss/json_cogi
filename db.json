@@ -16,7 +16,7 @@
   {
       "title": "Material Scrap",
       "subtitle": "",
-      "info": "",
+      "info": "HYDRAULIC...",
       "number": "43.75",
       "numberFactor":"%",
       "numberDigits" : 2,
@@ -30,7 +30,7 @@
   {
       "title": "Operation Scrap",
       "subtitle": "",
-      "info": "",
+      "info": "#10 Drill...",
       "number": "12.92",
       "numberFactor":"%",
       "numberDigits" : 2,
@@ -44,7 +44,7 @@
   {
       "title": "Excess Component Consumption",
       "subtitle": "Maximum Excess",
-      "info": "",
+      "info": "SHAFT TRAN...",
       "number": "0.5",
       "numberFactor":"%",
       "numberDigits" : 2,
