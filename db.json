@@ -16,10 +16,11 @@
       "title": "Material Scrap",
       "subtitle": "",
       "info": "",
-      "number": 4375,
+      "number": 43.75,
+      "numberFactor":"%"
       "numberDigits" : 2,
       "numberState": "Critical",
-      "numberUnit": "%",
+      "numberUnit": "",
       "infoState": "",
       "stateArrow": "Down"      
     }
