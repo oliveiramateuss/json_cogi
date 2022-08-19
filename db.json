@@ -15,8 +15,8 @@
   "material-scrap":
   {
       "title": "Material Scrap",
-      "subtitle": "",
-      "info": "HYDRAULIC...",
+      "subtitle": "Unit BZ01 - Indaiatuba C&F",
+      "info": "Average today",
       "number": "43.75",
       "numberFactor":"%",
       "numberDigits" : 2,
@@ -29,8 +29,8 @@
   "operation-scrap":
   {
       "title": "Operation Scrap",
-      "subtitle": "",
-      "info": "#10 Drill...",
+      "subtitle": "Unit BZ01 - Indaiatuba C&F",
+      "info": "Average today",
       "number": "12.92",
       "numberFactor":"%",
       "numberDigits" : 2,
