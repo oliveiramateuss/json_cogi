@@ -17,7 +17,7 @@
       "title": "Material Scrap",
       "subtitle": "",
       "info": "",
-      "number": 43.75,
+      "number": "43.75",
       "numberFactor":"%"
       "numberDigits" : 2,
       "numberState": "Critical",
@@ -31,7 +31,7 @@
       "title": "Operation Scrap",
       "subtitle": "",
       "info": "",
-      "number": 12.92,
+      "number": "12.92",
       "numberFactor":"%"
       "numberDigits" : 2,
       "numberState": "Neutral",
@@ -45,7 +45,7 @@
       "title": "Monitor Production Orders",
       "subtitle": "MRP View",
       "info": "",
-      "number": 0.5,
+      "number": "0.5",
       "numberFactor":"%"
       "numberDigits" : 2,
       "numberState": "Positive",
