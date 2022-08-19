@@ -43,8 +43,8 @@
   "excess-component-consumption":
   {
       "title": "Excess Component Consumption",
-      "subtitle": "Maximum Excess",
-      "info": "SHAFT TRAN...",
+      "subtitle": "Unit BZ01 - Indaiatuba C&F",
+      "info": "Average today",
       "number": "0.5",
       "numberFactor":"%",
       "numberDigits" : 2,
