@@ -20,10 +20,10 @@
       "number": "43.75",
       "numberFactor":"%",
       "numberDigits" : 2,
-      "numberState": "Critical",
+      "numberState": "Negative",
       "numberUnit": "",
       "infoState": "",
-      "stateArrow": "Down"      
+      "stateArrow": "Up"      
   },
   
   "operation-scrap":
@@ -34,7 +34,7 @@
       "number": "12.92",
       "numberFactor":"%",
       "numberDigits" : 2,
-      "numberState": "Neutral",
+      "numberState": "Critical",
       "numberUnit": "",
       "infoState": "",
       "stateArrow": "Up"      
@@ -51,6 +51,6 @@
       "numberState": "Positive",
       "numberUnit": "",
       "infoState": "",
-      "stateArrow": "Up"      
+      "stateArrow": "Down"      
   }
 }
