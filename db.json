@@ -10,5 +10,17 @@
       "numberUnit": "BRL",
       "infoState": "Neutral",
       "stateArrow": "Up"      
+    },
+  "material-scrap":
+  {
+      "title": "Material Scrap",
+      "subtitle": "",
+      "info": "",
+      "number": 4375,
+      "numberDigits" : 2,
+      "numberState": "Critical",
+      "numberUnit": "%",
+      "infoState": "",
+      "stateArrow": "Down"      
     }
 }
