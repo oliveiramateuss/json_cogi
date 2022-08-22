@@ -3,13 +3,26 @@
     {
       "title": "Postprocessing Error Records",
       "subtitle": "COGI",
-      "info": "Q3 - 2022",
+      "info": "Q4 - 2022",
       "number": 2265215,
       "numberDigits" : 2,
       "numberState": "Critical",
       "numberUnit": "BRL",
       "infoState": "Neutral",
       "stateArrow": "Up"      
+    },
+  
+  "coois": 
+    {
+      "title": "Open Planned Orders - Fixed Period",
+      "subtitle": "COOIS",
+      "info": "Q4 - 2022",
+      "number": 4,
+      "numberDigits" : 2,
+      "numberState": "Negative",
+      "numberUnit": "EA",
+      "infoState": "Neutral",
+      "stateArrow": "Down"      
     },
   
   "material-scrap":
