@@ -18,9 +18,10 @@
       "subtitle": "COOIS",
       "info": "Q4 - 2022",
       "number": 4,
+      "numberFactor":"EA",
       "numberDigits" : 2,
       "numberState": "Negative",
-      "numberUnit": "EA",
+      "numberUnit": "",
       "infoState": "Neutral",
       "stateArrow": "Down"      
     },
